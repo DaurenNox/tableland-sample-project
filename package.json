@@ -24,5 +24,9 @@
     "js-yaml": "^4.1.0",
     "prettier": "^2.7.1",
     "ts-jest": "^28.0.8"
+  },
+  "dependencies": {
+    "create-next-app": "^12.3.1",
+    "web3uikit": "^1.0.4"
   }
 }

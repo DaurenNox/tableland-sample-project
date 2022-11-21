@@ -1483,18 +1483,18 @@
   resolved "https://registry.yarnpkg.com/@stablelib/wipe/-/wipe-1.0.1.tgz#d21401f1d59ade56a62e139462a97f104ed19a36"
   integrity sha512-WfqfX/eXGiAd3RJe4VU2snh/ZPwtSjLG4ynQ/vYzvghTh7dHFcI1wl+nrkWG6lGhukOxOsUHfv8dUXr58D0ayg==
 
-"@tableland/evm@^2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@tableland/evm/-/evm-2.0.4.tgz#ddc9a608cd04f2a77f2a4b3cb08dfbf52cd9bc95"
-  integrity sha512-LCKBk4XViHQSt+iDgS8ZBfGxrQVnqWbKZcLy7yolznu0UvxIO7wta8a0vMfdaElB9sLeN0e8XLzWeD2fHt9lhA==
+"@tableland/evm@^3.0.0":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@tableland/evm/-/evm-3.0.3.tgz#348d28102a5a1a552230ec13d578ee8993f947e7"
+  integrity sha512-Ci8QJubb6Z4ipPANALqAPQ9byh0tsRWZREej8QXGqLfHRqCAJfnMRTy2f47Oqq7IQ6Ajcy5holeUr9EtSmXNXA==
 
-"@tableland/sdk@^3.1.1":
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/@tableland/sdk/-/sdk-3.1.2.tgz#f45f78f129208e4bb6a754d3fd8a9587e54a6bf7"
-  integrity sha512-5/WTsBgj3bmKEtqL1RHsbTEugvdUpyvYDEVj9QHArnyNcQlEm+L8bTLylo4poccYfmFcBDpAangr/4IjJVBBFA==
+"@tableland/sdk@^3.1.5":
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/@tableland/sdk/-/sdk-3.1.5.tgz#60c8aa8d39e1a45c4f6d66cc77aa2a92b4a53ade"
+  integrity sha512-iq+1bsdxNDEGXFgEYAEYdPYjitkvqn4Y6r7B1eOUQmQ3GBErEaWUZfp9XI/CG6K/ZLmkpLettG9FF8FNNA52dA==
   dependencies:
     "@stablelib/base64" "^1.0.1"
-    "@tableland/evm" "^2.0.4"
+    "@tableland/evm" "^3.0.0"
     camelcase "^6.3.0"
     ethers "^5.6.9"
     siwe "^2.0.5"
